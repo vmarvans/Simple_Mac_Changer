@@ -6,6 +6,6 @@
  
  "-i " / "--interface " : to change network interface
  
- "-r " : to get a random MAC address
+ "-r " : to set a random MAC address
  
  "-m " / "--mac_address " : to set a specific MAC address
